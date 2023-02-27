@@ -1,0 +1,3 @@
+linea ignorada en la carga
+Perri_dog;Jose;perro;M;1993-08-25;2000-05-18;
+Perri_cat;Juan;perro;M;1993-08-25;2000-05-18;

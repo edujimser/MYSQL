@@ -1,0 +1,3 @@
+Perri_dog,Jose,perro,M,1993-08-25,2000-05-18
+Perri_cat,Juan,gato,M,1993-08-25,2000-05-18
+Perri_bird,Pablo,pajaro,M,1993-10-22,2000-03-13
